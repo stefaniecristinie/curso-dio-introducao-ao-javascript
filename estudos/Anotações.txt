@@ -1,0 +1,27 @@
+Importar CSS:
+Link
+Rel = relacionamento
+Stylesheet = folha de estilos
+
+DOM:
+Document = html
+Heading Level 1 = h1
+Text Node = Hello World!
+Paragraph = p
+
+Console web:
+document.getElementsByTagName('h1')
+HTMLCollection [h1]
+Indice começa sempre no 0 --> 0: h1
+length = tamanho --> lenght: 1
+
+var heading1 = document.getElementsByTagName('h1) [0] = Pegar o elemento
+heading1
+<h1>Olá, Mundo!</h1>
+heading1.style.color = 'red'
+"red" = muda a cor do texto
+
+Contador:
+- botão = vai chamar decrement;
++ botão = vai chamar increment;
+Vai mudar o valor da tag span.

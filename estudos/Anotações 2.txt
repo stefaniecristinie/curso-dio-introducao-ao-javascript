@@ -1,0 +1,11 @@
+Frameworks e Bibliotecas:
+
+VueJS;*
+Angular;
+React;* - Biblioteca
+jQuery.
+
+*Mais Utilizado.
+
+Buscar soluções para problemas:
+stackoverflow
