@@ -5,3 +5,6 @@
 3. Quando o usuário selecionar o checkbox, o item correspondente fica com o texto riscado (tarefa completa).
 
 - Contador: 
+1. Implementação dos eventos usando o método addEventListener;
+2. Desabilitação do botão de incrementar ou decrementar quando o contador chegar a 10 ou -5;
+3. Mudança da cor do texto para vermelho quando o número for negativo.
